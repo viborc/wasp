@@ -137,14 +137,14 @@
             "file",
             "sdk/wasp/client/operations/queries/core.ts"
         ],
-        "7d4bededbb09a514ddc8ea931d91ef794cdf1c9b58e54ca4aaefc06d6cee7471"
+        "b83a3029e5c1ef047797f654e1c4d5e2c75f871d5f74535f0e4267172f856e6a"
     ],
     [
         [
             "file",
             "sdk/wasp/client/operations/queries/index.ts"
         ],
-        "99c7adea870c014ec9e62388029da25071905936848512b31800232518672dfc"
+        "20777aa61db352b725be32bd315b48ee7576bf6a5576a14357b93775ee3f65bd"
     ],
     [
         [
@@ -305,7 +305,7 @@
             "file",
             "sdk/wasp/package.json"
         ],
-        "9184992777b4e8856426f978d7a2c7daaba94728b7ef9bea907a2683d37f8226"
+        "353e2cf50c7ebb35b293495698b4e7b858851f08ee3540049748a3c9dfb4e597"
     ],
     [
         [

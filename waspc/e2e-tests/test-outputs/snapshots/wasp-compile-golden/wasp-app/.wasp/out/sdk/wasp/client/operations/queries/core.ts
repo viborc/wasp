@@ -1,5 +1,4 @@
 import { makeQueryCacheKey, buildAndRegisterQuery, type QueryFor } from '@wasp.sh/lib-sdk-core/browser'
-export { buildAndRegisterQuery } from '@wasp.sh/lib-sdk-core/browser'
 import { makeOperationRoute } from '@wasp.sh/lib-sdk-core'
 import type {
   GenericBackendOperation,
